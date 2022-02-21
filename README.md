@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajeevpahariya
 - 👀 I’m interested in learning Algos, AI, ML
 - 🌱 I’m currently learning Algos
-- 💞️ I’m looking to collaborate on Java/Spring Boot/Oracle Projects
+- 💞️ I’m looking to collaborate on Java/Spring Boot/Oracle ATG Projects
 - 📫 How to reach me ... email: rajeevpahariya@gmail.com
 
 <!---
